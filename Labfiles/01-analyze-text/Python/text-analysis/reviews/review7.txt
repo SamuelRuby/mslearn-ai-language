@@ -1,0 +1,22 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Senior Data Engineer position focused on Intelligence Transportation System analytics. With my extensive background in data engineering and infrastructure development, I am excited about the opportunity to contribute to your team's data platform and pipeline initiatives.
+
+At Encamina, I have consistently demonstrated expertise aligned with your requirements:
+- Led enterprise data architecture modernization using Azure services, reducing operational costs by 40%
+- Designed automated ETL pipelines integrating 10+ data sources, improving processing efficiency by 60%
+- Managed data warehouse implementations delivering 99.9% uptime and 30% improved query performance
+- Proficient in Python, Azure cloud ecosystem, and data orchestration technologies
+
+My technical skills encompass:
+- Data warehousing and performance optimization
+- ETL process development
+- Cloud infrastructure management
+- Big data processing using Spark and Azure technologies
+
+I am particularly drawn to the opportunity to develop scalable data solutions that support advanced analytics in transportation systems.
+
+I look forward to discussing how my skills can contribute to your team's objectives.
+
+Sincerely,
+Ruby Abuye
